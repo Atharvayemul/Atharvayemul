@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-yemul-1665a2239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-yemul-1665a2239" height="30" width="40" /></a>
 <a href="https://kaggle.com/atharva yemul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharva yemul" height="30" width="40" /></a>
 <a href="https://instagram.com/yemul.atharva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yemul.atharva" height="30" width="40" /></a>
-<a href="https://hashnode.com/@hashnode https://hashnode.com/@atharva297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hashnode https://hashnode.com/@atharva297" height="30" width="40" /></a>
+<a href="https://hashnode.com/@hashnode https://hashnode.com/@atharva297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@atharva297" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
