@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atharvayemul3@gmail.com**
 
-- 📄 Know about my experiences [https:/drive.google.com/drive/u//my-drive](https:/drive.google.com/drive/u//my-drive)
+- 📄 Know about my experiences [https:/drive.google.com/drive/u//my-drive]([https:/drive.google.com/drive/u//my-drive](https://drive.google.com/file/d/1DEGo7BsjVaEyQjI_CoESr1ICA7VDHz0E/view?usp=drive_link))
 
 - ⚡ Fun fact **Coding is fun**
 
